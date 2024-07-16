@@ -1,11 +1,7 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:970/0*1geNIsiclzJROVrH.png)
 <h1 align="center">Hi 👋, I'm Najma Razzaq</h1>
 <h3 align="center">Data Science Aspirant</h3>
-<img align="center" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=najmarazzaq761&label=Profile%20views&color=0e75b6&style=flat" alt="najmarazzaq761" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=najmarazzaq761" alt="najmarazzaq761" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
 
 - 🌱 I’m currently learning **Data Science, SQL**
 
