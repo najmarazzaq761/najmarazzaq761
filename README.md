@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
 
 - 🔭 I’m currently studying **computer science**
-- 
+
 - 🌱 I’m learning **Data Science / AI , Web Development**
 
 - 💬 Ask me about **Data Science, AI/ML ,Python Development**
