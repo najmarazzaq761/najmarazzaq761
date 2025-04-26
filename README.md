@@ -1,13 +1,13 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:970/0*1geNIsiclzJROVrH.png)
 <h1 align="center">Hi 👋, I'm Najma Razzaq</h1>
-<h3 align="center">Software Engineer (AI/ML) </h3>
+<h2 align="center">Software Engineer (AI/ML) </h2>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
 
 - 🔭 I’m currently studying **computer science**
 
-- 🌱 I’m learning **Data Science / AI , Web Development**
+- 🌱 I’m learning **Data Science / AI, Web Development**
 
-- 💬 Ask me about **Data Science, AI/ML ,Python Development**
+- 💬 Ask me about **Data Science, AI/ML , Python Development**
 
 - 📫 How to reach me **najmarazzaq761@gmail.com**
 
