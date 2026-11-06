@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Najma Razzaq</h1>
-<h2 align="center">AI/ML Engineer | Full-Stack Developer</h2>
+<h2 align="center">Full-Stack AI Engineer</h2>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
 
 - 🔭 I'm building **RAG chatbots, AI agents, and ML pipelines**
